@@ -2,6 +2,10 @@
 ||*.com^,app=com.tencent.ig
 ||*.net^,app=com.tencent.ig
 *^$network,app=com.tencent.ig
+@@*:8080^network,app=com.tencent.ig
+@@*:8081^network,app=com.tencent.ig
+@@*:8085^network,app=com.tencent.ig
+@@*:80^network,app=com.tencent.ig
 @@*:20000^network,app=com.tencent.ig
 @@*:20001^network,app=com.tencent.ig
 @@*:20002^network,app=com.tencent.ig

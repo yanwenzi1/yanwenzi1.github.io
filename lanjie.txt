@@ -2292,12 +2292,6 @@
 *:103.42.176.244$network
 *:240e:0452:dd36:1c8d:0000:0000:0000:0001$network
 *:2402:4e00:1830:12fc:0000:93c1:d63b:08f4$network
-*:101.32.110.252$network
-*:101.32.110.253$network
-*:101.32.110.254$network
-*:101.32.171.190$network
-*:101.32.171.191$network
-*:150.109.0.77$network
 *:185.151.204.6$network
 *:2001:0000:0000:0000:0000:0000:c760:381a$network
 *:43.128.117.250$network
@@ -2313,7 +2307,6 @@
 *:101.32.112.196$network
 *:101.32.112.114$network
 *:162.62.81.90$network
-*:101.226.233.174$network
 *:10.157.135.28$network
 *:23.225.141.210$network
 *:101.32.112.160$network
@@ -2464,7 +2457,6 @@
 ||n11scdn2.akamaized.net^
 ||t.captcha.qq.com^
 ||mp.ssl.captcha.qq.com^
-||sg.tdatamaster.com^
 ||sg.tdatamaster.com.0.1.adiosnof.roksit.net^
 ||allinfa.com^
 ||www.kkrr33.com^
@@ -2662,7 +2654,6 @@
 ||astat.bugly.qcloud.com^
 ||android.crashsight.wetest.net^
 ||promreport.crm2.qq.com^
-||cloudctrl.gcloudsdk.com^
 ||cloudctrl.gcloud.qq.com^
 ||doctor.gcloud.tencent.com^
 ||agpolis.com^

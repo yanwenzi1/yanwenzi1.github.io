@@ -207,7 +207,7 @@
 *:56312$network
 *:34160$network
 *:40568$network
-*:360008$network
+*:36000$network
 *:51120$network
 *:39816$network
 *:34182$network
@@ -396,7 +396,7 @@
 *:56601$network
 *:56516$network
 *:51176$network
-*:367140$network
+*:36714$network
 *:34908$network
 *:48281$network
 *:51182$network
@@ -459,9 +459,7 @@
 *:8013$network
 *:51368$network
 *:33924$network
-*:20000$network
 *:34997$network
-*:20001$network
 *:51518$network
 *:56820$network
 *:37674$network
